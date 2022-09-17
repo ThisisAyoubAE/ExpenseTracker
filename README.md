@@ -1,1 +1,1 @@
-# ExpenseTracker this is my first react app that i made 
+# ExpenseTracker this is the first  react app that i made 
