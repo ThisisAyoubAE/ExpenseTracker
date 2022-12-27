@@ -1,1 +1,1 @@
-# ExpenseTracker this is the first  react app that i made 
+# ExpenseTracker a react application that manages to track my expenses by month with a simple chart
